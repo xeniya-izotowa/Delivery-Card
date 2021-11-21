@@ -2,6 +2,7 @@ plugins {
     id 'java'
 }
 
+sourceCompatibility = 11
 group 'ru.netology'
 version '1.0-SNAPSHOT'
 
